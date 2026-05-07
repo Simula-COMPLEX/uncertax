@@ -1,6 +1,12 @@
 # UncerTax: Uncertainty Taxonomy
 
-This repository contains an uncertainty taxonomy for self-adaptive robotics, derived from research published in *IEEE Software*.  
+This repository contains an uncertainty taxonomy for self-adaptive robotics, presented in the following research works.  
+
+## 📄 Related Research 
+
+* **Hassan Sartaj, Jalil Boudjadar, Mirgita Frasheri, Shaukat Ali, and Peter Gorm Larsen**, "Identifying Uncertainty in Self-Adaptive Robotics with Large Language Models", *IEEE Software*, vol. 43, no. 1, pp. 89-97, Jan.-Feb. 2026, DOI: 10.1109/MS.2025.3620578. [Publication Link](https://ieeexplore.ieee.org/document/11204018)
+* **Hassan Sartaj, Jalil Boudjadar, Mirgita Frasheri, Shaukat Ali, and Peter Gorm Larsen**, "Human-in-the-Loop Uncertainty Analysis in Self-Adaptive Robots Using LLMs", 2026. Submitted to *IEEE Software* and currently under review.
+[arXiv Link](https://arxiv.org/abs/2605.02983)
 
 ---
 
@@ -26,4 +32,15 @@ If you use UncerTax in your research, please cite our work:
   pages={89-97},
   doi={10.1109/MS.2025.3620578},
   month={Jan.-Feb.}
+}
+
+
+@misc{Sartaj2026Humanintheloop,
+      title={Human-in-the-Loop Uncertainty Analysis in Self-Adaptive Robots Using LLMs}, 
+      author={Hassan Sartaj and Jalil Boudjadar and Mirgita Frasheri and Shaukat Ali and Peter Gorm Larsen},
+      year={2026},
+      eprint={2605.02983},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2605.02983}, 
 }
