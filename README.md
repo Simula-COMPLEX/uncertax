@@ -19,7 +19,7 @@ You can explore the taxonomy in two primary formats:
 ---
 
 ## 📜 Citation
-If you use UncerTax in your research, please cite our work:
+If you use UncerTax in your research, please cite our works:
 
 ```bibtex
 @article{Sartaj2026Uncertainty,
